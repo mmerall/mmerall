@@ -75,7 +75,12 @@
   <a href="https://x.com/misramerall">
     <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/m%C4%B1sra-meral-85aab72a3/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
 </p>
+
 
 ---
 
