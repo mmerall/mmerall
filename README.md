@@ -7,11 +7,13 @@
 ---
 
 ## 🌷 About Me
-- 🎓 3rd year **Computer Engineering** student at **Sakarya University**
-- 🔐 Working on **Blockchain-based customs & supply chain systems**
-- 💻 Currently learning **ASP.NET Core MVC**, **PostgreSQL**, **Microprocessors**, **C++**
-- 🌱 Passionate about **secure systems**, **web development**, **IoT**, and **modern architecture**
-- 🧪 Currently building: **FitnessApp (ASP.NET Core MVC)**
+
+- 🎓 3rd year **Computer Engineering** student at **Sakarya University of Applied Sciences**
+- 🔐 Interested in **secure systems**, **digital identity**, and **blockchain-based verification**
+- 💻 Working on **backend development**, **REST APIs**, and **database-driven web applications**
+- ⛓️ Exploring **Web3 technologies** with a focus on real-world verification and data integrity use cases
+- 🛠️ Tech stack: **Node.js**, **Express.js**, **PostgreSQL**, **JWT**, **JavaScript**, **C++**, and **Blockchain**
+- 🧪 Currently building: **Univerify – a Web3 QR Verification System for student and staff identity validation**
 
 ---
 
